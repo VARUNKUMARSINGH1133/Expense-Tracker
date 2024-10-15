@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/VARUNKUMARSINGH1133/Expense-Tracker/static/css/main.e19e8732.css",
-    "main.js": "/VARUNKUMARSINGH1133/Expense-Tracker/static/js/main.6f3d7cca.js",
-    "index.html": "/VARUNKUMARSINGH1133/Expense-Tracker/index.html",
-    "main.e19e8732.css.map": "/VARUNKUMARSINGH1133/Expense-Tracker/static/css/main.e19e8732.css.map",
-    "main.6f3d7cca.js.map": "/VARUNKUMARSINGH1133/Expense-Tracker/static/js/main.6f3d7cca.js.map"
+    "main.css": "./static/css/main.e19e8732.css",
+    "main.js": "./static/js/main.e789ae24.js",
+    "index.html": "./index.html",
+    "main.e19e8732.css.map": "./static/css/main.e19e8732.css.map",
+    "main.e789ae24.js.map": "./static/js/main.e789ae24.js.map"
   },
   "entrypoints": [
     "static/css/main.e19e8732.css",
-    "static/js/main.6f3d7cca.js"
+    "static/js/main.e789ae24.js"
   ]
 }
